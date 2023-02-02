@@ -1,0 +1,5 @@
+lst: list[str | int] = ['hello', 1234, 'hi']
+tp: tuple[str, int, str] = ("hello", 1234, 'hi')
+st: set[str | int] = {"hello", 1234, 'hi'}
+dct: dict[str, int] = {"hello":1234, "world":1234, 'hi':0}
+

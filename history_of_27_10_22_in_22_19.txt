@@ -1,0 +1,92 @@
+1+1
+def foo(x):
+    print(f"Переданное значение: {x}")
+whos
+ls
+cd ProjectFolder/ipython_projects
+ls
+ls
+%edit testfile.txt
+%edit testfile.txt
+%edit testfile.txt
+%edit testfile.txt
+%edit testfile.txt
+%edit testfile.txt
+%history -n 0-10
+foo(Привет)
+foo("Привет")
+whos
+ls
+%edit testfile1.txt
+%edit _2 testfile.txt
+%edit -p testfile.txt
+pycat testfile.txt
+whos
+%edit testfile.txt
+whos
+%reset
+pycat testfile.txt
+whos
+%edit testfile.txt
+whos
+ды
+ls
+%reset
+whos
+%pycat testfile.txt
+whos
+%load tempfile.txt
+whos
+ls
+%load testfile.txt
+# %load testfile.txt
+# Данный документ был создан командой writfile
+print('hello, world')
+def foo():
+    print("it's amasing!")
+foo()
+
+temp_val = [1, 2, 3, 4, 5]
+
+class Test_class():
+    default_val = 0
+    default_name = "test"
+    default_score = None
+??%load
+whos
+%reset
+%pacat foo()
+%pycat foo
+a = list(range(10))
+whos
+%pycat a
+??%pycat
+%pycat
+%history
+%pycat http://www.example.com/myscript.py
+%pycat 1-20
+??%pycat
+??%load
+%load
+whos
+??%paste
+%load -r 2-5 testfile.txt
+??%load
+%load -r 5 testfile.txt
+%load -r -5 testfile.txt
+%load -r 5- testfile.txt
+%history 20-
+%history -20
+%history
+%history <20
+%history -r -20
+??%history
+%history 10-20
+%history -o 10-20
+%history -on 10-20
+%history -on 0-10
+1+1
+%history -on 74-75
+??%history
+%history -onp 70-75
+%history -f history_of_27_10_22_in_22_19.txt

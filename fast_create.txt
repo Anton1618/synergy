@@ -1,0 +1,5 @@
+def func(val):
+    return f'Передано значение {val}'
+
+
+print(func('hello'))

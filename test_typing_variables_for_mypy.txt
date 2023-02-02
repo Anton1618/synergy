@@ -1,0 +1,8 @@
+lst: list = []
+tp: tuple = ("hello",)
+st: set = {"hello"}
+dct: dict = {"hello":1234}
+s: str = 'да'
+bt: bytes = b'\xd0\xb4\xd0\xb0'
+baer: bytearray = bytearray(b'\xd0\xb4\xd0\xb0') 
+

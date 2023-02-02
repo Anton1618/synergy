@@ -1,0 +1,19 @@
+{
+  "response": {
+    "count": 32363,
+    "items": [
+      {
+        "id": 287350527,
+        "first_name": "Sonya",
+        "last_name": "Kargina",
+        "likes": 181
+      },
+      {
+        "id": 341523166,
+        "first_name": "Slava",
+        "last_name": "Kholod",
+        "likes": 168
+      }
+    ]
+  }
+}

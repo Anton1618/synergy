@@ -1,0 +1,10 @@
+val1, val2 = 'python', 1_000_000
+def func1(val1: str, val2: int) -> list[str | int]: return [val1, val2]
+def func2(val1: str, val2: int) -> dict[str, int]: return dict({val1: val2})
+def func3(val1: str, val2: int) -> tuple[str, int]: return (val1, val2)
+def func4(val1: str, val2: int) -> set[str | int]: return {val1, val2}
+func1('Anton', 1_000_000)
+func2('Anton', 1_000_000)
+func3('Anton', 1_000_000)
+func4('Anton', 1_000_000)
+

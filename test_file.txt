@@ -1,0 +1,4 @@
+import typing
+val: typing.Any = [1,2,3]
+print(val)
+
